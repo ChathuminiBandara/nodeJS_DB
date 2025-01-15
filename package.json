@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_db",
+  "version": "1.0.0",
+  "description": "NODE JS _DB CREATION",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chathumini Bandara",
+  "license": "ISC"
+}
